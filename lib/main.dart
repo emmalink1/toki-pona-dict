@@ -49,6 +49,9 @@ class AllWords extends StatelessWidget {
                 .expand((i) => i)
                 .toList()),
       ),
+      trailing: Text(word,
+          textAlign: TextAlign.right,
+          style: TextStyle(fontFamily: 'LinjaPona', fontSize: 18.0)),
       onTap: () {
         Navigator.push(
           context,
@@ -86,19 +89,33 @@ class WordDetailScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     // Use the Todo to create our UI
     return Scaffold(
-      appBar: AppBar(
-        title: Text("${word.word}"),
-      ),
-      body: Padding(
-        padding: EdgeInsets.all(16.0),
-        child: Text.rich(
-          TextSpan(
-              children: word.definitions
-                  .map((d) => d.asTextSpans())
-                  .expand((i) => i)
-                  .toList()),
+        appBar: AppBar(
+          title: Text("${word.word}"),
         ),
-      ),
-    );
+        body: Column(
+          children: <Widget>[
+            Padding(
+              padding: EdgeInsets.all(16.0),
+              child: Text.rich(
+                TextSpan(
+                    children: word.definitions
+                        .map((d) => d.asTextSpans())
+                        .expand((i) => i)
+                        .toList()),
+              ),
+            ),
+            Container(
+              margin: const EdgeInsets.all(15.0),
+              padding: const EdgeInsets.all(3.0),
+              decoration: new BoxDecoration(
+                  border: new Border.all(color: Colors.blueAccent)),
+              child: Text(
+                word.word,
+                textAlign: TextAlign.center,
+                style: TextStyle(fontFamily: 'LinjaPona', fontSize: 30.0),
+              ),
+            )
+          ],
+        ));
   }
 }
