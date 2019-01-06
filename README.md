@@ -1,16 +1,13 @@
-# toki_pona_dict
+# toki-pona-dict
 
-A new Flutter project.
+toki pona dictionary for Android / iOS, created with Flutter.
 
-## Getting Started
+## About Toki Pona
 
-This project is a starting point for a Flutter application.
+[Toki Pona](http://tokipona.org/) is a constructed language (["conlang"](https://en.wikipedia.org/wiki/Constructed_language)) created by Canadian linguist Sonja Lang in 2001. Containing ~120 words, the language forces speakers to boil ideas down to their most fundamental aspects.
 
-A few resources to get you started if this is your first Flutter project:
+See:
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+- ["How to Say (Almost) Everything in a Hundred-Word Language" (The Atlantic)](https://www.theatlantic.com/technology/archive/2015/07/toki-pona-smallest-language/398363/)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+- ["Allusionist 25: Toki Pona" (The Allusionist Podcast)](https://www.theallusionist.org/allusionist/tokipona)
