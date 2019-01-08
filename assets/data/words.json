@@ -1,0 +1,37 @@
+[
+  {
+    "word": "ala",
+    "definitions": [
+      {
+        "pos": "ADJECTIVE",
+        "def": "no, not, zero"
+      }
+    ]
+  },
+  {
+    "word": "alasa",
+    "definitions": [
+      {
+        "pos": "VERB",
+        "def": "to hunt, forage"
+      }
+    ]
+  },
+  {
+    "word": "ale  or  ali",
+    "definitions": [
+      {
+        "pos": "ADJECTIVE",
+        "def": "all; abundant, countless, bountiful, every, plentiful"
+      },
+      {
+        "pos": "NOUN",
+        "def": "abundance, everything, life, universe"
+      },
+      {
+        "pos": "NUMBER",
+        "def": "100"
+      }
+    ]
+  }
+]

@@ -15,6 +15,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  shared_preferences: ^0.4.3
   cupertino_icons: ^0.1.2
 
 dev_dependencies:
@@ -31,8 +32,9 @@ flutter:
   # the material Icons class.
   uses-material-design: true
   # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - data/words.json
+  assets:
+    - assets/data/words.json
+    - assets/data/test.json
   #  - images/a_dot_ham.jpeg
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.io/assets-and-images/#resolution-aware.
@@ -46,7 +48,7 @@ flutter:
   fonts:
     - family: LinjaPona
       fonts:
-        - asset: fonts/linja-pona3.otf
+        - asset: assets/fonts/linja-pona3.otf
   #   - family: Trajan Pro
   #     fonts:
   #       - asset: fonts/TrajanPro.ttf
