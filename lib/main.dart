@@ -64,7 +64,7 @@ class _HomePageState extends State<HomePage> {
 }
 
 class SettingsPage extends StatefulWidget {
-  static String routeName = "/nextPage";
+  static String routeName = "/settingsPage";
   @override
   _SettingsPageState createState() => new _SettingsPageState();
 }
@@ -91,9 +91,9 @@ class _SettingsPageState extends State<SettingsPage> {
               value: _switchValue,
               onChanged: (bool value) {
                 SharedPreferencesHelper.setCompoundWordSetting(value);
-                // setState(() {
-                //   _switchValue = value;
-                // });
+                setState(() {
+                  _switchValue = value;
+                });
               }),
         ],
       ),
@@ -115,7 +115,7 @@ class SharedPreferencesHelper {
 
   static Future<bool> getCompoundWordSetting() async {
     final SharedPreferences prefs = await SharedPreferences.getInstance();
-    return prefs.getString(showCompoundWords) ?? false;
+    return prefs.getBool(showCompoundWords) ?? false;
   }
 
   static Future<bool> setCompoundWordSetting(bool value) async {
