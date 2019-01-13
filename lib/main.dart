@@ -74,7 +74,7 @@ class _HomePageState extends State<HomePage> {
                 .expand((i) => i)
                 .toList()),
       ),
-      trailing: Text("${word.getMainWord()} \t",
+      trailing: Text(word.getMainWord(),
           textAlign: TextAlign.right,
           style: TextStyle(fontFamily: 'LinjaPona', fontSize: 18.0)),
       onTap: () {
@@ -130,7 +130,7 @@ class WordDetailScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final _rootWord = "  \"    " + word.word.split(' (')[0] + " \"";
+    final _rootWord = word.getMainWord();
     print(_rootWord);
 
     // Use the Todo to create our UI
@@ -156,19 +156,6 @@ class WordDetailScreen extends StatelessWidget {
               style: TextStyle(fontFamily: 'LinjaPona', fontSize: 30.0),
             ),
           ),
-          Container(
-              margin: const EdgeInsets.all(15.0),
-              padding: const EdgeInsets.all(3.0),
-              decoration: new BoxDecoration(
-                  border: new Border.all(color: Colors.blueAccent)),
-              child: Text("e\t",
-                  style: TextStyle(
-                    fontFamily: 'LinjaPona',
-                    fontSize: 30.0,
-                    fontWeight: FontWeight.w400,
-                  ),
-                  textScaleFactor: 1.0,
-                  maxLines: 10))
         ]));
   }
 }
