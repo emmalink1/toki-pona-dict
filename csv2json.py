@@ -24,4 +24,4 @@ with open('toki_pona_dict.csv', newline='') as csvfile:
 
 wordsList = list(words.values())
 with open(fp, 'w') as f:
-    json.dump(wordsList, f)
+    json.dump(wordsList, f, indent=2)

@@ -12,16 +12,32 @@
   {
     "word": "akesi",
     "definitions": [
-      { "pos": "NOUN", "def": "non-cute animal; reptile, amphibian", "eg": "" }
+      {
+        "pos": "NOUN",
+        "def": "non-cute animal; reptile, amphibian",
+        "eg": ""
+      }
     ]
   },
   {
     "word": "ala",
-    "definitions": [{ "pos": "ADJECTIVE", "def": "no, not, zero", "eg": "" }]
+    "definitions": [
+      {
+        "pos": "ADJECTIVE",
+        "def": "no, not, zero",
+        "eg": ""
+      }
+    ]
   },
   {
     "word": "alasa",
-    "definitions": [{ "pos": "VERB", "def": "to hunt, forage", "eg": "" }]
+    "definitions": [
+      {
+        "pos": "VERB",
+        "def": "to hunt, forage",
+        "eg": ""
+      }
+    ]
   },
   {
     "word": "ale | ali",
@@ -36,7 +52,11 @@
         "def": "abundance, everything, life, universe",
         "eg": ""
       },
-      { "pos": "NUMBER", "def": "One-hundred (100)", "eg": "" }
+      {
+        "pos": "NUMBER",
+        "def": "One-hundred (100)",
+        "eg": ""
+      }
     ]
   },
   {
@@ -61,7 +81,13 @@
   },
   {
     "word": "anu",
-    "definitions": [{ "pos": "PARTICLE", "def": "or", "eg": "" }]
+    "definitions": [
+      {
+        "pos": "PARTICLE",
+        "def": "or",
+        "eg": ""
+      }
+    ]
   },
   {
     "word": "awen",
@@ -71,19 +97,31 @@
         "def": "enduring, kept, protected, safe, waiting, staying",
         "eg": ""
       },
-      { "pos": "PRE-VERB", "def": "to continue to", "eg": "" }
+      {
+        "pos": "PRE-VERB",
+        "def": "to continue to",
+        "eg": ""
+      }
     ]
   },
   {
     "word": "e",
     "definitions": [
-      { "pos": "PARTICLE", "def": "(before the direct object)", "eg": "" }
+      {
+        "pos": "PARTICLE",
+        "def": "(before the direct object)",
+        "eg": ""
+      }
     ]
   },
   {
     "word": "en",
     "definitions": [
-      { "pos": "PARTICLE", "def": "(between multiple subjects)", "eg": "" }
+      {
+        "pos": "PARTICLE",
+        "def": "(between multiple subjects)",
+        "eg": ""
+      }
     ]
   },
   {
@@ -99,7 +137,11 @@
   {
     "word": "ijo",
     "definitions": [
-      { "pos": "NOUN", "def": "thing, phenomenon, object, matter", "eg": "" }
+      {
+        "pos": "NOUN",
+        "def": "thing, phenomenon, object, matter",
+        "eg": ""
+      }
     ]
   },
   {
@@ -115,7 +157,11 @@
   {
     "word": "ilo",
     "definitions": [
-      { "pos": "NOUN", "def": "tool, implement, machine, device", "eg": "" }
+      {
+        "pos": "NOUN",
+        "def": "tool, implement, machine, device",
+        "eg": ""
+      }
     ]
   },
   {
@@ -141,25 +187,41 @@
   {
     "word": "jan",
     "definitions": [
-      { "pos": "NOUN", "def": "human being, person, somebody", "eg": "" }
+      {
+        "pos": "NOUN",
+        "def": "human being, person, somebody",
+        "eg": ""
+      }
     ]
   },
   {
     "word": "jelo",
     "definitions": [
-      { "pos": "ADJECTIVE", "def": "yellow, yellowish", "eg": "" }
+      {
+        "pos": "ADJECTIVE",
+        "def": "yellow, yellowish",
+        "eg": ""
+      }
     ]
   },
   {
     "word": "jo",
     "definitions": [
-      { "pos": "VERB", "def": "to have, carry, contain, hold", "eg": "" }
+      {
+        "pos": "VERB",
+        "def": "to have, carry, contain, hold",
+        "eg": ""
+      }
     ]
   },
   {
     "word": "kala",
     "definitions": [
-      { "pos": "NOUN", "def": "fish, marine animal, sea creature", "eg": "" }
+      {
+        "pos": "NOUN",
+        "def": "fish, marine animal, sea creature",
+        "eg": ""
+      }
     ]
   },
   {
@@ -190,7 +252,11 @@
   {
     "word": "kasi",
     "definitions": [
-      { "pos": "NOUN", "def": "plant, vegetation; herb, leaf", "eg": "" }
+      {
+        "pos": "NOUN",
+        "def": "plant, vegetation; herb, leaf",
+        "eg": ""
+      }
     ]
   },
   {
@@ -201,25 +267,41 @@
         "def": "to be able to, be allowed to, can, may",
         "eg": ""
       },
-      { "pos": "ADJECTIVE", "def": "possible", "eg": "" }
+      {
+        "pos": "ADJECTIVE",
+        "def": "possible",
+        "eg": ""
+      }
     ]
   },
   {
     "word": "kepeken",
     "definitions": [
-      { "pos": "PREPOSITION", "def": "to use, with, by means of", "eg": "" }
+      {
+        "pos": "PREPOSITION",
+        "def": "to use, with, by means of",
+        "eg": ""
+      }
     ]
   },
   {
     "word": "kili",
     "definitions": [
-      { "pos": "NOUN", "def": "fruit, vegetable, mushroom", "eg": "" }
+      {
+        "pos": "NOUN",
+        "def": "fruit, vegetable, mushroom",
+        "eg": ""
+      }
     ]
   },
   {
     "word": "kiwen",
     "definitions": [
-      { "pos": "NOUN", "def": "hard object, metal, rock, stone", "eg": "" }
+      {
+        "pos": "NOUN",
+        "def": "hard object, metal, rock, stone",
+        "eg": ""
+      }
     ]
   },
   {
@@ -245,7 +327,11 @@
   {
     "word": "kule",
     "definitions": [
-      { "pos": "ADJECTIVE", "def": "colourful, pigmented, painted", "eg": "" }
+      {
+        "pos": "ADJECTIVE",
+        "def": "colourful, pigmented, painted",
+        "eg": ""
+      }
     ]
   },
   {
@@ -261,7 +347,11 @@
   {
     "word": "kute",
     "definitions": [
-      { "pos": "NOUN", "def": "ear", "eg": "" },
+      {
+        "pos": "NOUN",
+        "def": "ear",
+        "eg": ""
+      },
       {
         "pos": "VERB",
         "def": "to hear, listen; pay attention to, obey",
@@ -282,16 +372,32 @@
   {
     "word": "lape",
     "definitions": [
-      { "pos": "ADJECTIVE", "def": "sleeping, resting", "eg": "" }
+      {
+        "pos": "ADJECTIVE",
+        "def": "sleeping, resting",
+        "eg": ""
+      }
     ]
   },
   {
     "word": "laso",
-    "definitions": [{ "pos": "ADJECTIVE", "def": "blue, green", "eg": "" }]
+    "definitions": [
+      {
+        "pos": "ADJECTIVE",
+        "def": "blue, green",
+        "eg": ""
+      }
+    ]
   },
   {
     "word": "lawa",
-    "definitions": [{ "pos": "NOUN", "def": "head, mind", "eg": "" }]
+    "definitions": [
+      {
+        "pos": "NOUN",
+        "def": "head, mind",
+        "eg": ""
+      }
+    ]
   },
   {
     "word": "len",
@@ -311,7 +417,11 @@
   {
     "word": "lete",
     "definitions": [
-      { "pos": "ADJECTIVE", "def": "cold, cool; uncooked, raw", "eg": "" }
+      {
+        "pos": "ADJECTIVE",
+        "def": "cold, cool; uncooked, raw",
+        "eg": ""
+      }
     ]
   },
   {
@@ -356,7 +466,13 @@
   },
   {
     "word": "loje",
-    "definitions": [{ "pos": "ADJECTIVE", "def": "red, reddish", "eg": "" }]
+    "definitions": [
+      {
+        "pos": "ADJECTIVE",
+        "def": "red, reddish",
+        "eg": ""
+      }
+    ]
   },
   {
     "word": "lon",
@@ -371,26 +487,46 @@
   {
     "word": "luka",
     "definitions": [
-      { "pos": "NOUN", "def": "arm, hand, tactile organ", "eg": "" },
-      { "pos": "NUMBER", "def": "five", "eg": "" }
+      {
+        "pos": "NOUN",
+        "def": "arm, hand, tactile organ",
+        "eg": ""
+      },
+      {
+        "pos": "NUMBER",
+        "def": "five",
+        "eg": ""
+      }
     ]
   },
   {
     "word": "lukin  or  oko",
     "definitions": [
-      { "pos": "NOUN", "def": "eye", "eg": "" },
+      {
+        "pos": "NOUN",
+        "def": "eye",
+        "eg": ""
+      },
       {
         "pos": "VERB",
         "def": "to look at, see, examine, observe, read, watch",
         "eg": ""
       },
-      { "pos": "PRE - VERB", "def": "to seek, look for, try to", "eg": "" }
+      {
+        "pos": "PRE - VERB",
+        "def": "to seek, look for, try to",
+        "eg": ""
+      }
     ]
   },
   {
     "word": "lupa",
     "definitions": [
-      { "pos": "NOUN", "def": "door, hole, orifice, window", "eg": "" }
+      {
+        "pos": "NOUN",
+        "def": "door, hole, orifice, window",
+        "eg": ""
+      }
     ]
   },
   {
@@ -426,17 +562,31 @@
   {
     "word": "meli",
     "definitions": [
-      { "pos": "NOUN", "def": "woman, female, feminine person; wife", "eg": "" }
+      {
+        "pos": "NOUN",
+        "def": "woman, female, feminine person; wife",
+        "eg": ""
+      }
     ]
   },
   {
     "word": "mi",
-    "definitions": [{ "pos": "NOUN", "def": "I, me, we, us", "eg": "" }]
+    "definitions": [
+      {
+        "pos": "NOUN",
+        "def": "I, me, we, us",
+        "eg": ""
+      }
+    ]
   },
   {
     "word": "mije",
     "definitions": [
-      { "pos": "NOUN", "def": "man, male, masculine person; husband", "eg": "" }
+      {
+        "pos": "NOUN",
+        "def": "man, male, masculine person; husband",
+        "eg": ""
+      }
     ]
   },
   {
@@ -451,22 +601,42 @@
   },
   {
     "word": "moli",
-    "definitions": [{ "pos": "ADJECTIVE", "def": "dead, dying", "eg": "" }]
+    "definitions": [
+      {
+        "pos": "ADJECTIVE",
+        "def": "dead, dying",
+        "eg": ""
+      }
+    ]
   },
   {
     "word": "monsi",
-    "definitions": [{ "pos": "NOUN", "def": "back, behind, rear", "eg": "" }]
+    "definitions": [
+      {
+        "pos": "NOUN",
+        "def": "back, behind, rear",
+        "eg": ""
+      }
+    ]
   },
   {
     "word": "mu",
     "definitions": [
-      { "pos": "PARTICLE", "def": "(animal noise or communication)", "eg": "" }
+      {
+        "pos": "PARTICLE",
+        "def": "(animal noise or communication)",
+        "eg": ""
+      }
     ]
   },
   {
     "word": "mun",
     "definitions": [
-      { "pos": "NOUN", "def": "moon, night sky object, star", "eg": "" }
+      {
+        "pos": "NOUN",
+        "def": "moon, night sky object, star",
+        "eg": ""
+      }
     ]
   },
   {
@@ -487,7 +657,11 @@
         "def": "many, a lot, more, much, several, very",
         "eg": ""
       },
-      { "pos": "NOUN", "def": "quantity", "eg": "" }
+      {
+        "pos": "NOUN",
+        "def": "quantity",
+        "eg": ""
+      }
     ]
   },
   {
@@ -532,11 +706,23 @@
   },
   {
     "word": "ni",
-    "definitions": [{ "pos": "ADJECTIVE", "def": "that, this", "eg": "" }]
+    "definitions": [
+      {
+        "pos": "ADJECTIVE",
+        "def": "that, this",
+        "eg": ""
+      }
+    ]
   },
   {
     "word": "nimi",
-    "definitions": [{ "pos": "NOUN", "def": "name, word", "eg": "" }]
+    "definitions": [
+      {
+        "pos": "NOUN",
+        "def": "name, word",
+        "eg": ""
+      }
+    ]
   },
   {
     "word": "noka",
@@ -551,7 +737,11 @@
   {
     "word": "o",
     "definitions": [
-      { "pos": "PARTICLE", "def": "hey! O! (vocative or imperative)", "eg": "" }
+      {
+        "pos": "PARTICLE",
+        "def": "hey! O! (vocative or imperative)",
+        "eg": ""
+      }
     ]
   },
   {
@@ -566,12 +756,22 @@
   },
   {
     "word": "ona",
-    "definitions": [{ "pos": "NOUN", "def": "he, she, it, they", "eg": "" }]
+    "definitions": [
+      {
+        "pos": "NOUN",
+        "def": "he, she, it, they",
+        "eg": ""
+      }
+    ]
   },
   {
     "word": "open",
     "definitions": [
-      { "pos": "VERB", "def": "to begin, start; open; turn on", "eg": "" }
+      {
+        "pos": "VERB",
+        "def": "to begin, start; open; turn on",
+        "eg": ""
+      }
     ]
   },
   {
@@ -597,7 +797,11 @@
   {
     "word": "palisa",
     "definitions": [
-      { "pos": "NOUN", "def": "long hard thing; branch, rod, stick", "eg": "" }
+      {
+        "pos": "NOUN",
+        "def": "long hard thing; branch, rod, stick",
+        "eg": ""
+      }
     ]
   },
   {
@@ -622,7 +826,13 @@
   },
   {
     "word": "pi",
-    "definitions": [{ "pos": "PARTICLE", "def": "of", "eg": "" }]
+    "definitions": [
+      {
+        "pos": "PARTICLE",
+        "def": "of",
+        "eg": ""
+      }
+    ]
   },
   {
     "word": "pilin",
@@ -637,7 +847,11 @@
   {
     "word": "pimeja",
     "definitions": [
-      { "pos": "ADJECTIVE", "def": "black, dark, unlit", "eg": "" }
+      {
+        "pos": "ADJECTIVE",
+        "def": "black, dark, unlit",
+        "eg": ""
+      }
     ]
   },
   {
@@ -653,13 +867,21 @@
   {
     "word": "pipi",
     "definitions": [
-      { "pos": "NOUN", "def": "bug, insect, ant, spider", "eg": "" }
+      {
+        "pos": "NOUN",
+        "def": "bug, insect, ant, spider",
+        "eg": ""
+      }
     ]
   },
   {
     "word": "poka",
     "definitions": [
-      { "pos": "NOUN", "def": "hip, side; next to, nearby, vicinity", "eg": "" }
+      {
+        "pos": "NOUN",
+        "def": "hip, side; next to, nearby, vicinity",
+        "eg": ""
+      }
     ]
   },
   {
@@ -724,7 +946,13 @@
   },
   {
     "word": "seme",
-    "definitions": [{ "pos": "PARTICLE", "def": "what? which?", "eg": "" }]
+    "definitions": [
+      {
+        "pos": "PARTICLE",
+        "def": "what? which?",
+        "eg": ""
+      }
+    ]
   },
   {
     "word": "sewi",
@@ -768,12 +996,22 @@
   },
   {
     "word": "sina",
-    "definitions": [{ "pos": "NOUN", "def": "you", "eg": "" }]
+    "definitions": [
+      {
+        "pos": "NOUN",
+        "def": "you",
+        "eg": ""
+      }
+    ]
   },
   {
     "word": "sinpin",
     "definitions": [
-      { "pos": "NOUN", "def": "face, foremost, front, wall", "eg": "" }
+      {
+        "pos": "NOUN",
+        "def": "face, foremost, front, wall",
+        "eg": ""
+      }
     ]
   },
   {
@@ -799,7 +1037,11 @@
   {
     "word": "soweli",
     "definitions": [
-      { "pos": "NOUN", "def": "animal, beast, land mammal", "eg": "" }
+      {
+        "pos": "NOUN",
+        "def": "animal, beast, land mammal",
+        "eg": ""
+      }
     ]
   },
   {
@@ -845,13 +1087,21 @@
   {
     "word": "tan",
     "definitions": [
-      { "pos": "PREPOSITION", "def": "by, from, because of", "eg": "" }
+      {
+        "pos": "PREPOSITION",
+        "def": "by, from, because of",
+        "eg": ""
+      }
     ]
   },
   {
     "word": "taso",
     "definitions": [
-      { "pos": "PARTICLE", "def": "but, however\r\nADJECTIVE only", "eg": "" }
+      {
+        "pos": "PARTICLE",
+        "def": "but, however\r\nADJECTIVE only",
+        "eg": ""
+      }
     ]
   },
   {
@@ -906,7 +1156,13 @@
   },
   {
     "word": "tu",
-    "definitions": [{ "pos": "NUMBER", "def": "two", "eg": "" }]
+    "definitions": [
+      {
+        "pos": "NUMBER",
+        "def": "two",
+        "eg": ""
+      }
+    ]
   },
   {
     "word": "unpa",
@@ -921,7 +1177,11 @@
   {
     "word": "uta",
     "definitions": [
-      { "pos": "NOUN", "def": "mouth, lips, oral cavity, jaw", "eg": "" }
+      {
+        "pos": "NOUN",
+        "def": "mouth, lips, oral cavity, jaw",
+        "eg": ""
+      }
     ]
   },
   {
@@ -947,13 +1207,21 @@
   {
     "word": "wan",
     "definitions": [
-      { "pos": "ADJECTIVE", "def": "unique, united\r\nNUMBER one", "eg": "" }
+      {
+        "pos": "ADJECTIVE",
+        "def": "unique, united\r\nNUMBER one",
+        "eg": ""
+      }
     ]
   },
   {
     "word": "waso",
     "definitions": [
-      { "pos": "NOUN", "def": "bird, flying creature, winged animal", "eg": "" }
+      {
+        "pos": "NOUN",
+        "def": "bird, flying creature, winged animal",
+        "eg": ""
+      }
     ]
   },
   {
@@ -969,7 +1237,11 @@
   {
     "word": "weka",
     "definitions": [
-      { "pos": "ADJECTIVE", "def": "absent, away, ignored", "eg": "" }
+      {
+        "pos": "ADJECTIVE",
+        "def": "absent, away, ignored",
+        "eg": ""
+      }
     ]
   },
   {
