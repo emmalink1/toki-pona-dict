@@ -11,20 +11,6 @@ Future<List<DictWord>> loadDict() async {
   return wordObjList;
 }
 
-// ToDo: This should just be a Map, unless add methods
-// class TokiPonaDict {
-//   final Map<String, DictWord> words;
-
-//   TokiPonaDict({this.words});
-
-//   factory TokiPonaDict.fromJson(List<dynamic> json) {
-//     var words = {};
-//     json.forEach(
-//         (wordJson) => words[wordJson["word"]] = DictWord.fromJson(wordJson));
-//     return TokiPonaDict(words: words);
-//   }
-// }
-
 class DictWord {
   String word;
   List<Definition> definitions;
@@ -46,6 +32,8 @@ class DictWord {
   String toString() {
     return "DictWord[$word]";
   }
+
+  String getMainWord() => word.split(' (')[0];
 }
 
 class Definition {

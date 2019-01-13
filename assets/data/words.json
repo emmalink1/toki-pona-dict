@@ -1,6 +1,6 @@
 [
   {
-    "word": "a | kin",
+    "word": "a (or kin) ",
     "definitions": [
       {
         "pos": "PARTICLE",
@@ -40,7 +40,7 @@
     ]
   },
   {
-    "word": "ale | ali",
+    "word": "ale (or ali)",
     "definitions": [
       {
         "pos": "ADJECTIVE",
@@ -54,7 +54,7 @@
       },
       {
         "pos": "NUMBER",
-        "def": "One-hundred (100)",
+        "def": "one-hundred (100)",
         "eg": ""
       }
     ]
@@ -500,7 +500,7 @@
     ]
   },
   {
-    "word": "lukin  or  oko",
+    "word": "lukin (or oko)",
     "definitions": [
       {
         "pos": "NOUN",
@@ -513,7 +513,7 @@
         "eg": ""
       },
       {
-        "pos": "PRE - VERB",
+        "pos": "PRE-VERB",
         "def": "to seek, look for, try to",
         "eg": ""
       }
@@ -669,7 +669,12 @@
     "definitions": [
       {
         "pos": "PARTICLE",
-        "def": "-th (ordinal number)\r\nNOUN numbers",
+        "def": "-th (ordinal number)",
+        "eg": ""
+      },
+      {
+        "pos": "NOUN",
+        "def": "numbers",
         "eg": ""
       }
     ]
@@ -839,7 +844,12 @@
     "definitions": [
       {
         "pos": "NOUN",
-        "def": "heart (physical or emotional)\r\nADJECTIVE feeling (an emotion, a direct experience)",
+        "def": "heart (physical or emotional)",
+        "eg": ""
+      },
+      {
+        "pos": "ADJECTIVE",
+        "def": "feeling (an emotion, a direct experience)",
         "eg": ""
       }
     ]
@@ -919,7 +929,12 @@
     "definitions": [
       {
         "pos": "ADJECTIVE",
-        "def": "same, similar; each other; sibling, peer, fellow\r\nPREPOSITION as, like",
+        "def": "same, similar; each other; sibling, peer, fellow",
+        "eg": ""
+      },
+      {
+        "pos": "PREPOSITION",
+        "def": "as, like",
         "eg": ""
       }
     ]
@@ -959,7 +974,12 @@
     "definitions": [
       {
         "pos": "NOUN",
-        "def": "area above, highest part, something elevated\r\nADJECTIVE awe-inspiring, divine, sacred, supernatural",
+        "def": "area above, highest part, something elevated",
+        "eg": ""
+      },
+      {
+        "pos": "ADJECTIVE",
+        "def": "awe-inspiring, divine, sacred, supernatural",
         "eg": ""
       }
     ]
@@ -979,13 +999,18 @@
     "definitions": [
       {
         "pos": "NOUN",
-        "def": "round or circular thing; ball, circle, cycle, sphere, wheel\r\nADJECTIVE of one year",
+        "def": "round or circular thing; ball, circle, cycle, sphere, wheel",
+        "eg": ""
+      },
+      {
+        "pos": "ADJECTIVE",
+        "def": "of one year",
         "eg": ""
       }
     ]
   },
   {
-    "word": "sin or namako",
+    "word": "sin (or namako)",
     "definitions": [
       {
         "pos": "ADJECTIVE",
@@ -1029,7 +1054,12 @@
     "definitions": [
       {
         "pos": "VERB",
-        "def": "to know, be skilled in, be wise about, have information on\r\nPRE - VERB to know how to",
+        "def": "to know, be skilled in, be wise about, have information on",
+        "eg": ""
+      },
+      {
+        "pos": "PRE-VERB",
+        "def": "to know how to",
         "eg": ""
       }
     ]
@@ -1099,7 +1129,12 @@
     "definitions": [
       {
         "pos": "PARTICLE",
-        "def": "but, however\r\nADJECTIVE only",
+        "def": "but, however",
+        "eg": ""
+      },
+      {
+        "pos": "ADJECTIVE",
+        "def": "only",
         "eg": ""
       }
     ]
@@ -1109,7 +1144,12 @@
     "definitions": [
       {
         "pos": "PREPOSITION",
-        "def": "going to, toward; for; from the perspective of\r\nADJECTIVE moving",
+        "def": "going to, toward; for; from the perspective of",
+        "eg": ""
+      },
+      {
+        "pos": "ADJECTIVE",
+        "def": "moving",
         "eg": ""
       }
     ]
@@ -1209,7 +1249,12 @@
     "definitions": [
       {
         "pos": "ADJECTIVE",
-        "def": "unique, united\r\nNUMBER one",
+        "def": "unique, united",
+        "eg": ""
+      },
+      {
+        "pos": "NUMBER",
+        "def": "one",
         "eg": ""
       }
     ]
@@ -1248,8 +1293,8 @@
     "word": "wile",
     "definitions": [
       {
-        "pos": "PRE",
-        "def": "- VERB must, need, require, should, want, wish",
+        "pos": "PRE-VERB",
+        "def": "must, need, require, should, want, wish",
         "eg": ""
       }
     ]

@@ -55,6 +55,8 @@ class _HomePageState extends State<HomePage> {
   }
 
   Widget _buildRow(DictWord word, context) {
+    // final _rootWord = word.word.split(' (')[0];
+
     return ListTile(
       title: Text(
         word.word,
@@ -72,17 +74,17 @@ class _HomePageState extends State<HomePage> {
                 .expand((i) => i)
                 .toList()),
       ),
-      trailing: Text(word.word,
+      trailing: Text("${word.getMainWord()} \t",
           textAlign: TextAlign.right,
           style: TextStyle(fontFamily: 'LinjaPona', fontSize: 18.0)),
-      // onTap: () {
-      //   Navigator.push(
-      //     context,
-      //     MaterialPageRoute(
-      //       builder: (context) => WordDetailScreen(word: dictWord),
-      //     ),
-      //   );
-      // },
+      onTap: () {
+        Navigator.push(
+          context,
+          MaterialPageRoute(
+            builder: (context) => WordDetailScreen(word: word),
+          ),
+        );
+      },
     );
   }
 
@@ -103,6 +105,74 @@ class _HomePageState extends State<HomePage> {
   }
 }
 
+class WordDetailScreen extends StatelessWidget {
+  // Declare a field that holds the word
+  final DictWord word;
+
+  // In the constructor, require a word
+  WordDetailScreen({Key key, @required this.word}) : super(key: key);
+
+  List<TextSpan> _fmtDefinitions(List<Definition> defs) {
+    List<TextSpan> textSpans = [];
+    for (var i = 0; i < defs.length; i++) {
+      var d = defs[i];
+      textSpans.add(TextSpan(text: "${i + 1})\t\t"));
+      textSpans.add(TextSpan(
+          text: "${d.pos}\n", style: TextStyle(fontStyle: FontStyle.italic)));
+      textSpans.add(TextSpan(text: "\t\t\t\t\t${d.def}\n"));
+      if (d.eg != "") {
+        textSpans.add(TextSpan(text: "\t\t\t\t\tEg. ${d.eg}\n"));
+      }
+      textSpans.add(TextSpan(text: "\n"));
+    }
+    return textSpans;
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final _rootWord = "  \"    " + word.word.split(' (')[0] + " \"";
+    print(_rootWord);
+
+    // Use the Todo to create our UI
+    return Scaffold(
+        appBar: AppBar(
+          title: Text("${word.word}"),
+        ),
+        body: Column(children: <Widget>[
+          Padding(
+            padding: EdgeInsets.all(16.0),
+            child: Text.rich(
+              TextSpan(children: _fmtDefinitions(word.definitions)),
+            ),
+          ),
+          Container(
+            margin: const EdgeInsets.all(15.0),
+            padding: const EdgeInsets.all(3.0),
+            decoration: new BoxDecoration(
+                border: new Border.all(color: Colors.blueAccent)),
+            child: Text(
+              _rootWord,
+              textAlign: TextAlign.center,
+              style: TextStyle(fontFamily: 'LinjaPona', fontSize: 30.0),
+            ),
+          ),
+          Container(
+              margin: const EdgeInsets.all(15.0),
+              padding: const EdgeInsets.all(3.0),
+              decoration: new BoxDecoration(
+                  border: new Border.all(color: Colors.blueAccent)),
+              child: Text("e\t",
+                  style: TextStyle(
+                    fontFamily: 'LinjaPona',
+                    fontSize: 30.0,
+                    fontWeight: FontWeight.w400,
+                  ),
+                  textScaleFactor: 1.0,
+                  maxLines: 10))
+        ]));
+  }
+}
+
 class SettingsPage extends StatefulWidget {
   static String routeName = "/settingsPage";
   @override
@@ -110,7 +180,7 @@ class SettingsPage extends StatefulWidget {
 }
 
 class _SettingsPageState extends State<SettingsPage> {
-  var _switchValue;
+  var _switchValue = false;
 
   @override
   void initState() {
@@ -122,7 +192,7 @@ class _SettingsPageState extends State<SettingsPage> {
 
   Widget _buildSwitch() {
     return Align(
-      alignment: const Alignment(0.0, -0.2),
+      alignment: Alignment.center,
       child: Row(
         mainAxisSize: MainAxisSize.min,
         children: <Widget>[
@@ -146,7 +216,11 @@ class _SettingsPageState extends State<SettingsPage> {
         appBar: AppBar(
           title: Text('Settings'),
         ),
-        body: _buildSwitch());
+        body: Column(children: [
+          _buildSwitch(),
+          Text(
+              "The symbols are rendered using jan Same's linja pona font, a rendition of the \"sitelen pona\” script for toki pona.")
+        ]));
   }
 }
 
@@ -161,49 +235,5 @@ class SharedPreferencesHelper {
   static Future<bool> setCompoundWordSetting(bool value) async {
     final SharedPreferences prefs = await SharedPreferences.getInstance();
     return prefs.setBool(showCompoundWords, value);
-  }
-}
-
-class WordDetailScreen extends StatelessWidget {
-  // Declare a field that holds the word
-  final DictWord word;
-
-  // In the constructor, require a word
-  WordDetailScreen({Key key, @required this.word}) : super(key: key);
-
-  @override
-  Widget build(BuildContext context) {
-    // Use the Todo to create our UI
-    return Scaffold(
-        appBar: AppBar(
-          title: Text("${word.word}"),
-        ),
-        body: Column(
-          children: <Widget>[
-            Padding(
-              padding: EdgeInsets.all(16.0),
-              child: Text("hello"),
-
-              // Text.rich(
-              //   TextSpan(
-              //       children: word.definitions
-              //           .map((d) => d.asTextSpans())
-              //           .expand((i) => i)
-              //           .toList()),
-              // ),
-            ),
-            Container(
-              margin: const EdgeInsets.all(15.0),
-              padding: const EdgeInsets.all(3.0),
-              decoration: new BoxDecoration(
-                  border: new Border.all(color: Colors.blueAccent)),
-              child: Text(
-                word.word,
-                textAlign: TextAlign.center,
-                style: TextStyle(fontFamily: 'LinjaPona', fontSize: 30.0),
-              ),
-            )
-          ],
-        ));
   }
 }
