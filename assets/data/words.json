@@ -1,6 +1,6 @@
 [
   {
-    "word": "a  or  kin",
+    "word": "a | kin",
     "definitions": [
       {
         "pos": "PARTICLE",
@@ -24,11 +24,11 @@
     "definitions": [{ "pos": "VERB", "def": "to hunt, forage", "eg": "" }]
   },
   {
-    "word": "ale, ali",
+    "word": "ale | ali",
     "definitions": [
       {
         "pos": "ADJECTIVE",
-        "def": "all; abundant, countless, bountiful, every, plentiful\n",
+        "def": "all; abundant, countless, bountiful, every, plentiful",
         "eg": ""
       },
       {
@@ -68,7 +68,7 @@
     "definitions": [
       {
         "pos": "ADJECTIVE",
-        "def": "enduring, kept, protected, safe, waiting, staying\n",
+        "def": "enduring, kept, protected, safe, waiting, staying",
         "eg": ""
       },
       { "pos": "PRE-VERB", "def": "to continue to", "eg": "" }
@@ -495,7 +495,7 @@
     "definitions": [
       {
         "pos": "PARTICLE",
-        "def": "-th (ordinal number)\nNOUN numbers",
+        "def": "-th (ordinal number)\r\nNOUN numbers",
         "eg": ""
       }
     ]
@@ -629,7 +629,7 @@
     "definitions": [
       {
         "pos": "NOUN",
-        "def": "heart (physical or emotional)\nADJECTIVE feeling (an emotion, a direct experience)",
+        "def": "heart (physical or emotional)\r\nADJECTIVE feeling (an emotion, a direct experience)",
         "eg": ""
       }
     ]
@@ -697,7 +697,7 @@
     "definitions": [
       {
         "pos": "ADJECTIVE",
-        "def": "same, similar; each other; sibling, peer, fellow\nPREPOSITION as, like",
+        "def": "same, similar; each other; sibling, peer, fellow\r\nPREPOSITION as, like",
         "eg": ""
       }
     ]
@@ -731,7 +731,7 @@
     "definitions": [
       {
         "pos": "NOUN",
-        "def": "area above, highest part, something elevated\nADJECTIVE awe-inspiring, divine, sacred, supernatural",
+        "def": "area above, highest part, something elevated\r\nADJECTIVE awe-inspiring, divine, sacred, supernatural",
         "eg": ""
       }
     ]
@@ -751,7 +751,7 @@
     "definitions": [
       {
         "pos": "NOUN",
-        "def": "round or circular thing; ball, circle, cycle, sphere, wheel\nADJECTIVE of one year",
+        "def": "round or circular thing; ball, circle, cycle, sphere, wheel\r\nADJECTIVE of one year",
         "eg": ""
       }
     ]
@@ -791,7 +791,7 @@
     "definitions": [
       {
         "pos": "VERB",
-        "def": "to know, be skilled in, be wise about, have information on\nPRE - VERB to know how to",
+        "def": "to know, be skilled in, be wise about, have information on\r\nPRE - VERB to know how to",
         "eg": ""
       }
     ]
@@ -851,7 +851,7 @@
   {
     "word": "taso",
     "definitions": [
-      { "pos": "PARTICLE", "def": "but, however\nADJECTIVE only", "eg": "" }
+      { "pos": "PARTICLE", "def": "but, however\r\nADJECTIVE only", "eg": "" }
     ]
   },
   {
@@ -859,7 +859,7 @@
     "definitions": [
       {
         "pos": "PREPOSITION",
-        "def": "going to, toward; for; from the perspective of\nADJECTIVE moving",
+        "def": "going to, toward; for; from the perspective of\r\nADJECTIVE moving",
         "eg": ""
       }
     ]
@@ -947,7 +947,7 @@
   {
     "word": "wan",
     "definitions": [
-      { "pos": "ADJECTIVE", "def": "unique, united\nNUMBER one", "eg": "" }
+      { "pos": "ADJECTIVE", "def": "unique, united\r\nNUMBER one", "eg": "" }
     ]
   },
   {
