@@ -1,26 +1,3 @@
-import 'dart:async' show Future;
-import 'dart:convert';
-
-import 'package:flutter/services.dart' show rootBundle;
-
-import 'package:flutter/material.dart';
-import 'package:flutter/foundation.dart';
-
-// Future<String> _loadDictAsset() async {
-//   return await rootBundle.loadString('assets/data/words.json');
-// }
-
-// Future<Student> loadDict() async {
-//   await wait(5);
-//   String jsonString = await _loadAStudentAsset();
-//   final jsonResponse = json.decode(jsonString);
-//   return new Student.fromJson(jsonResponse);
-// }
-
-Future wait(int seconds) {
-  return new Future.delayed(Duration(seconds: seconds), () => {});
-}
-
 //Future class for single user information
 Future<TokiPonaDict> loadDict(Future<String> data) async {
   // await wait(5);

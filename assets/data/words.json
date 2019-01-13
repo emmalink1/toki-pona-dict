@@ -1,36 +1,984 @@
 [
   {
-    "word": "ala",
+    "word": "a  or  kin",
     "definitions": [
       {
-        "pos": "ADJECTIVE",
-        "def": "no, not, zero"
+        "pos": "PARTICLE",
+        "def": "(emphasis, emotion or confirmation)",
+        "eg": ""
       }
     ]
+  },
+  {
+    "word": "akesi",
+    "definitions": [
+      { "pos": "NOUN", "def": "non-cute animal; reptile, amphibian", "eg": "" }
+    ]
+  },
+  {
+    "word": "ala",
+    "definitions": [{ "pos": "ADJECTIVE", "def": "no, not, zero", "eg": "" }]
   },
   {
     "word": "alasa",
+    "definitions": [{ "pos": "VERB", "def": "to hunt, forage", "eg": "" }]
+  },
+  {
+    "word": "ale, ali",
     "definitions": [
       {
-        "pos": "VERB",
-        "def": "to hunt, forage"
+        "pos": "ADJECTIVE",
+        "def": "all; abundant, countless, bountiful, every, plentiful\n",
+        "eg": ""
+      },
+      {
+        "pos": "NOUN",
+        "def": "abundance, everything, life, universe",
+        "eg": ""
+      },
+      { "pos": "NUMBER", "def": "One-hundred (100)", "eg": "" }
+    ]
+  },
+  {
+    "word": "anpa",
+    "definitions": [
+      {
+        "pos": "ADJECTIVE",
+        "def": "bowing down, downward, humble, lowly, dependent",
+        "eg": ""
       }
     ]
   },
   {
-    "word": "ale  or  ali",
+    "word": "ante",
     "definitions": [
       {
         "pos": "ADJECTIVE",
-        "def": "all; abundant, countless, bountiful, every, plentiful"
+        "def": "different, altered, changed, other",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "anu",
+    "definitions": [{ "pos": "PARTICLE", "def": "or", "eg": "" }]
+  },
+  {
+    "word": "awen",
+    "definitions": [
+      {
+        "pos": "ADJECTIVE",
+        "def": "enduring, kept, protected, safe, waiting, staying\n",
+        "eg": ""
       },
+      { "pos": "PRE-VERB", "def": "to continue to", "eg": "" }
+    ]
+  },
+  {
+    "word": "e",
+    "definitions": [
+      { "pos": "PARTICLE", "def": "(before the direct object)", "eg": "" }
+    ]
+  },
+  {
+    "word": "en",
+    "definitions": [
+      { "pos": "PARTICLE", "def": "(between multiple subjects)", "eg": "" }
+    ]
+  },
+  {
+    "word": "esun",
+    "definitions": [
       {
         "pos": "NOUN",
-        "def": "abundance, everything, life, universe"
+        "def": "market, shop, fair, bazaar, business transaction",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "ijo",
+    "definitions": [
+      { "pos": "NOUN", "def": "thing, phenomenon, object, matter", "eg": "" }
+    ]
+  },
+  {
+    "word": "ike",
+    "definitions": [
+      {
+        "pos": "ADJECTIVE",
+        "def": "bad, negative; non-essential, irrelevant",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "ilo",
+    "definitions": [
+      { "pos": "NOUN", "def": "tool, implement, machine, device", "eg": "" }
+    ]
+  },
+  {
+    "word": "insa",
+    "definitions": [
+      {
+        "pos": "NOUN",
+        "def": "centre, content, inside, between; internal organ, stomach",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "jaki",
+    "definitions": [
+      {
+        "pos": "ADJECTIVE",
+        "def": "disgusting, obscene, sickly, toxic, unclean, unsanitary",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "jan",
+    "definitions": [
+      { "pos": "NOUN", "def": "human being, person, somebody", "eg": "" }
+    ]
+  },
+  {
+    "word": "jelo",
+    "definitions": [
+      { "pos": "ADJECTIVE", "def": "yellow, yellowish", "eg": "" }
+    ]
+  },
+  {
+    "word": "jo",
+    "definitions": [
+      { "pos": "VERB", "def": "to have, carry, contain, hold", "eg": "" }
+    ]
+  },
+  {
+    "word": "kala",
+    "definitions": [
+      { "pos": "NOUN", "def": "fish, marine animal, sea creature", "eg": "" }
+    ]
+  },
+  {
+    "word": "kalama",
+    "definitions": [
+      {
+        "pos": "VERB",
+        "def": "to produce a sound; recite, utter aloud",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "kama",
+    "definitions": [
+      {
+        "pos": "ADJECTIVE",
+        "def": "arriving, coming, future, summoned",
+        "eg": ""
       },
       {
-        "pos": "NUMBER",
-        "def": "100"
+        "pos": "PRE - VERB",
+        "def": "to become, manage to, succeed in",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "kasi",
+    "definitions": [
+      { "pos": "NOUN", "def": "plant, vegetation; herb, leaf", "eg": "" }
+    ]
+  },
+  {
+    "word": "ken",
+    "definitions": [
+      {
+        "pos": "PRE-VERB",
+        "def": "to be able to, be allowed to, can, may",
+        "eg": ""
+      },
+      { "pos": "ADJECTIVE", "def": "possible", "eg": "" }
+    ]
+  },
+  {
+    "word": "kepeken",
+    "definitions": [
+      { "pos": "PREPOSITION", "def": "to use, with, by means of", "eg": "" }
+    ]
+  },
+  {
+    "word": "kili",
+    "definitions": [
+      { "pos": "NOUN", "def": "fruit, vegetable, mushroom", "eg": "" }
+    ]
+  },
+  {
+    "word": "kiwen",
+    "definitions": [
+      { "pos": "NOUN", "def": "hard object, metal, rock, stone", "eg": "" }
+    ]
+  },
+  {
+    "word": "ko",
+    "definitions": [
+      {
+        "pos": "NOUN",
+        "def": "clay, clinging form, dough, semi-solid, paste, powder",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "kon",
+    "definitions": [
+      {
+        "pos": "NOUN",
+        "def": "air, breath; essence, spirit; hidden reality, unseen agent",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "kule",
+    "definitions": [
+      { "pos": "ADJECTIVE", "def": "colourful, pigmented, painted", "eg": "" }
+    ]
+  },
+  {
+    "word": "kulupu",
+    "definitions": [
+      {
+        "pos": "NOUN",
+        "def": "community, company, group, nation, society, tribe",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "kute",
+    "definitions": [
+      { "pos": "NOUN", "def": "ear", "eg": "" },
+      {
+        "pos": "VERB",
+        "def": "to hear, listen; pay attention to, obey",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "la",
+    "definitions": [
+      {
+        "pos": "PARTICLE",
+        "def": "(between the context phrase and the main sentence)",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "lape",
+    "definitions": [
+      { "pos": "ADJECTIVE", "def": "sleeping, resting", "eg": "" }
+    ]
+  },
+  {
+    "word": "laso",
+    "definitions": [{ "pos": "ADJECTIVE", "def": "blue, green", "eg": "" }]
+  },
+  {
+    "word": "lawa",
+    "definitions": [{ "pos": "NOUN", "def": "head, mind", "eg": "" }]
+  },
+  {
+    "word": "len",
+    "definitions": [
+      {
+        "pos": "NOUN",
+        "def": "cloth, clothing, fabric, textile; cover, layer of privacy",
+        "eg": ""
+      },
+      {
+        "pos": "VERB",
+        "def": "to control, direct, guide, lead, own, plan, regulate, rule",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "lete",
+    "definitions": [
+      { "pos": "ADJECTIVE", "def": "cold, cool; uncooked, raw", "eg": "" }
+    ]
+  },
+  {
+    "word": "li",
+    "definitions": [
+      {
+        "pos": "PARTICLE",
+        "def": "(between any subject except mi alone or sina alone and its verb; also to introduce a new verb for the same subject)",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "lili",
+    "definitions": [
+      {
+        "pos": "ADJECTIVE",
+        "def": "little, small, short; few; a bit; young",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "linja",
+    "definitions": [
+      {
+        "pos": "NOUN",
+        "def": "long and flexible thing; cord, hair, rope, thread, yarn",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "lipu",
+    "definitions": [
+      {
+        "pos": "NOUN",
+        "def": "flat object; book, document, card, paper, record, website",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "loje",
+    "definitions": [{ "pos": "ADJECTIVE", "def": "red, reddish", "eg": "" }]
+  },
+  {
+    "word": "lon",
+    "definitions": [
+      {
+        "pos": "PREPOSITION",
+        "def": "located at, present at, real, true, existing",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "luka",
+    "definitions": [
+      { "pos": "NOUN", "def": "arm, hand, tactile organ", "eg": "" },
+      { "pos": "NUMBER", "def": "five", "eg": "" }
+    ]
+  },
+  {
+    "word": "lukin  or  oko",
+    "definitions": [
+      { "pos": "NOUN", "def": "eye", "eg": "" },
+      {
+        "pos": "VERB",
+        "def": "to look at, see, examine, observe, read, watch",
+        "eg": ""
+      },
+      { "pos": "PRE - VERB", "def": "to seek, look for, try to", "eg": "" }
+    ]
+  },
+  {
+    "word": "lupa",
+    "definitions": [
+      { "pos": "NOUN", "def": "door, hole, orifice, window", "eg": "" }
+    ]
+  },
+  {
+    "word": "ma",
+    "definitions": [
+      {
+        "pos": "NOUN",
+        "def": "earth, land; outdoors, world; country, territory; soil",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "mama",
+    "definitions": [
+      {
+        "pos": "NOUN",
+        "def": "parent, ancestor; creator, originator; caretaker, sustainer",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "mani",
+    "definitions": [
+      {
+        "pos": "NOUN",
+        "def": "money, cash, savings, wealth; large domesticated animal",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "meli",
+    "definitions": [
+      { "pos": "NOUN", "def": "woman, female, feminine person; wife", "eg": "" }
+    ]
+  },
+  {
+    "word": "mi",
+    "definitions": [{ "pos": "NOUN", "def": "I, me, we, us", "eg": "" }]
+  },
+  {
+    "word": "mije",
+    "definitions": [
+      { "pos": "NOUN", "def": "man, male, masculine person; husband", "eg": "" }
+    ]
+  },
+  {
+    "word": "moku",
+    "definitions": [
+      {
+        "pos": "VERB",
+        "def": "to eat, drink, consume, swallow, ingest",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "moli",
+    "definitions": [{ "pos": "ADJECTIVE", "def": "dead, dying", "eg": "" }]
+  },
+  {
+    "word": "monsi",
+    "definitions": [{ "pos": "NOUN", "def": "back, behind, rear", "eg": "" }]
+  },
+  {
+    "word": "mu",
+    "definitions": [
+      { "pos": "PARTICLE", "def": "(animal noise or communication)", "eg": "" }
+    ]
+  },
+  {
+    "word": "mun",
+    "definitions": [
+      { "pos": "NOUN", "def": "moon, night sky object, star", "eg": "" }
+    ]
+  },
+  {
+    "word": "musi",
+    "definitions": [
+      {
+        "pos": "ADJECTIVE",
+        "def": "artistic, entertaining, frivolous, playful, recreational",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "mute",
+    "definitions": [
+      {
+        "pos": "ADJECTIVE",
+        "def": "many, a lot, more, much, several, very",
+        "eg": ""
+      },
+      { "pos": "NOUN", "def": "quantity", "eg": "" }
+    ]
+  },
+  {
+    "word": "nanpa",
+    "definitions": [
+      {
+        "pos": "PARTICLE",
+        "def": "-th (ordinal number)\nNOUN numbers",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "nasa",
+    "definitions": [
+      {
+        "pos": "ADJECTIVE",
+        "def": "unusual, strange; foolish, crazy; drunk, intoxicated",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "nasin",
+    "definitions": [
+      {
+        "pos": "NOUN",
+        "def": "way, custom, doctrine, method, path, road",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "nena",
+    "definitions": [
+      {
+        "pos": "NOUN",
+        "def": "bump, button, hill, mountain, nose, protuberance",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "ni",
+    "definitions": [{ "pos": "ADJECTIVE", "def": "that, this", "eg": "" }]
+  },
+  {
+    "word": "nimi",
+    "definitions": [{ "pos": "NOUN", "def": "name, word", "eg": "" }]
+  },
+  {
+    "word": "noka",
+    "definitions": [
+      {
+        "pos": "NOUN",
+        "def": "foot, leg, organ of locomotion; bottom, lower part",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "o",
+    "definitions": [
+      { "pos": "PARTICLE", "def": "hey! O! (vocative or imperative)", "eg": "" }
+    ]
+  },
+  {
+    "word": "olin",
+    "definitions": [
+      {
+        "pos": "VERB",
+        "def": "to love, have compassion for, respect, show affection to",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "ona",
+    "definitions": [{ "pos": "NOUN", "def": "he, she, it, they", "eg": "" }]
+  },
+  {
+    "word": "open",
+    "definitions": [
+      { "pos": "VERB", "def": "to begin, start; open; turn on", "eg": "" }
+    ]
+  },
+  {
+    "word": "pakala",
+    "definitions": [
+      {
+        "pos": "ADJECTIVE",
+        "def": "botched, broken, damaged, harmed, messed up",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "pali",
+    "definitions": [
+      {
+        "pos": "VERB",
+        "def": "to do, take action on, work on; build, make, prepare",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "palisa",
+    "definitions": [
+      { "pos": "NOUN", "def": "long hard thing; branch, rod, stick", "eg": "" }
+    ]
+  },
+  {
+    "word": "pan",
+    "definitions": [
+      {
+        "pos": "NOUN",
+        "def": "cereal, grain; barley, corn, oat, rice, wheat; bread, pasta",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "pana",
+    "definitions": [
+      {
+        "pos": "VERB",
+        "def": "to give, send, emit, provide, put, release",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "pi",
+    "definitions": [{ "pos": "PARTICLE", "def": "of", "eg": "" }]
+  },
+  {
+    "word": "pilin",
+    "definitions": [
+      {
+        "pos": "NOUN",
+        "def": "heart (physical or emotional)\nADJECTIVE feeling (an emotion, a direct experience)",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "pimeja",
+    "definitions": [
+      { "pos": "ADJECTIVE", "def": "black, dark, unlit", "eg": "" }
+    ]
+  },
+  {
+    "word": "pini",
+    "definitions": [
+      {
+        "pos": "ADJECTIVE",
+        "def": "ago, completed, ended, finished, past",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "pipi",
+    "definitions": [
+      { "pos": "NOUN", "def": "bug, insect, ant, spider", "eg": "" }
+    ]
+  },
+  {
+    "word": "poka",
+    "definitions": [
+      { "pos": "NOUN", "def": "hip, side; next to, nearby, vicinity", "eg": "" }
+    ]
+  },
+  {
+    "word": "poki",
+    "definitions": [
+      {
+        "pos": "NOUN",
+        "def": "container, bag, bowl, box, cup, cupboard, drawer, vessel",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "pona",
+    "definitions": [
+      {
+        "pos": "ADJECTIVE",
+        "def": "good, positive, useful; friendly, peaceful; simple",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "pu",
+    "definitions": [
+      {
+        "pos": "ADJECTIVE",
+        "def": "interacting with the Toki Pona book",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "sama",
+    "definitions": [
+      {
+        "pos": "ADJECTIVE",
+        "def": "same, similar; each other; sibling, peer, fellow\nPREPOSITION as, like",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "seli",
+    "definitions": [
+      {
+        "pos": "ADJECTIVE",
+        "def": "fire; cooking element, chemical reaction, heat source",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "selo",
+    "definitions": [
+      {
+        "pos": "NOUN",
+        "def": "outer form, outer layer; bark, peel, shell, skin; boundary",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "seme",
+    "definitions": [{ "pos": "PARTICLE", "def": "what? which?", "eg": "" }]
+  },
+  {
+    "word": "sewi",
+    "definitions": [
+      {
+        "pos": "NOUN",
+        "def": "area above, highest part, something elevated\nADJECTIVE awe-inspiring, divine, sacred, supernatural",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "sijelo",
+    "definitions": [
+      {
+        "pos": "NOUN",
+        "def": "body (of person or animal), physical state, torso",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "sike",
+    "definitions": [
+      {
+        "pos": "NOUN",
+        "def": "round or circular thing; ball, circle, cycle, sphere, wheel\nADJECTIVE of one year",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "sin or namako",
+    "definitions": [
+      {
+        "pos": "ADJECTIVE",
+        "def": "new, fresh; additional, another, extra",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "sina",
+    "definitions": [{ "pos": "NOUN", "def": "you", "eg": "" }]
+  },
+  {
+    "word": "sinpin",
+    "definitions": [
+      { "pos": "NOUN", "def": "face, foremost, front, wall", "eg": "" }
+    ]
+  },
+  {
+    "word": "sitelen",
+    "definitions": [
+      {
+        "pos": "NOUN",
+        "def": "image, picture, representation, symbol, mark, writing",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "sona",
+    "definitions": [
+      {
+        "pos": "VERB",
+        "def": "to know, be skilled in, be wise about, have information on\nPRE - VERB to know how to",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "soweli",
+    "definitions": [
+      { "pos": "NOUN", "def": "animal, beast, land mammal", "eg": "" }
+    ]
+  },
+  {
+    "word": "suli",
+    "definitions": [
+      {
+        "pos": "ADJECTIVE",
+        "def": "big, heavy, large, long, tall; important; adult",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "suno",
+    "definitions": [
+      {
+        "pos": "NOUN",
+        "def": "sun; light, brightness, glow, radiance, shine; light source",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "supa",
+    "definitions": [
+      {
+        "pos": "NOUN",
+        "def": "horizontal surface, thing to put or rest something on",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "suwi",
+    "definitions": [
+      {
+        "pos": "ADJECTIVE",
+        "def": "sweet, fragrant; cute, innocent, adorable",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "tan",
+    "definitions": [
+      { "pos": "PREPOSITION", "def": "by, from, because of", "eg": "" }
+    ]
+  },
+  {
+    "word": "taso",
+    "definitions": [
+      { "pos": "PARTICLE", "def": "but, however\nADJECTIVE only", "eg": "" }
+    ]
+  },
+  {
+    "word": "tawa",
+    "definitions": [
+      {
+        "pos": "PREPOSITION",
+        "def": "going to, toward; for; from the perspective of\nADJECTIVE moving",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "telo",
+    "definitions": [
+      {
+        "pos": "NOUN",
+        "def": "water, liquid, fluid, wet substance; beverage",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "tenpo",
+    "definitions": [
+      {
+        "pos": "NOUN",
+        "def": "time, duration, moment, occasion, period, situation",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "toki",
+    "definitions": [
+      {
+        "pos": "VERB",
+        "def": "to communicate, say, speak, say, talk, use language, think",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "tomo",
+    "definitions": [
+      {
+        "pos": "NOUN",
+        "def": "indoor space; building, home, house, room",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "tu",
+    "definitions": [{ "pos": "NUMBER", "def": "two", "eg": "" }]
+  },
+  {
+    "word": "unpa",
+    "definitions": [
+      {
+        "pos": "VERB",
+        "def": "to have sexual or marital relations with",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "uta",
+    "definitions": [
+      { "pos": "NOUN", "def": "mouth, lips, oral cavity, jaw", "eg": "" }
+    ]
+  },
+  {
+    "word": "utala",
+    "definitions": [
+      {
+        "pos": "VERB",
+        "def": "to battle, challenge, compete against, struggle against",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "walo",
+    "definitions": [
+      {
+        "pos": "ADJECTIVE",
+        "def": "white, whitish; light-coloured, pale",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "wan",
+    "definitions": [
+      { "pos": "ADJECTIVE", "def": "unique, united\nNUMBER one", "eg": "" }
+    ]
+  },
+  {
+    "word": "waso",
+    "definitions": [
+      { "pos": "NOUN", "def": "bird, flying creature, winged animal", "eg": "" }
+    ]
+  },
+  {
+    "word": "wawa",
+    "definitions": [
+      {
+        "pos": "ADJECTIVE",
+        "def": "strong, powerful; confident, sure; energetic, intense",
+        "eg": ""
+      }
+    ]
+  },
+  {
+    "word": "weka",
+    "definitions": [
+      { "pos": "ADJECTIVE", "def": "absent, away, ignored", "eg": "" }
+    ]
+  },
+  {
+    "word": "wile",
+    "definitions": [
+      {
+        "pos": "PRE",
+        "def": "- VERB must, need, require, should, want, wish",
+        "eg": ""
       }
     ]
   }
